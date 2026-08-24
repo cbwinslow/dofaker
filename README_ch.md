@@ -23,8 +23,8 @@
 - 2023/9/14 更新脸部增强算法(GFPGAN)和超分算法(BSRGAN)
 
 # 教程
-- [B站视频使用教程](https://www.bilibili.com/video/BV1b8411i7A8/)  
-- [AiStudio在线免费体验](https://aistudio.baidu.com/projectdetail/6759162)  
+- [B站视频使用教程](https://www.bilibili.com/video/BV1b8411i7A8/)
+- [AiStudio在线免费体验](https://aistudio.baidu.com/projectdetail/6759162)
 
 
 # 快速开始
@@ -126,9 +126,9 @@ python run_faceswapper.py --source input_video.mp4 --dst_face_paths dst_face1.jp
 [您的支持是我们持续开发的动力](https://justld.github.io/)
 
 # Thanks
-- [insightface](https://github.com/deepinsight/insightface)  
-- [GFPGAN](https://github.com/TencentARC/GFPGAN)  
-- [GFPGAN-onnxruntime-demo](https://github.com/xuanandsix/GFPGAN-onnxruntime-demo)  
-- [BSRGAN](https://github.com/cszn/BSRGAN)  
-- [pose-transfer](https://github.com/prasunroy/pose-transfer)  
-- [openpose-pytorch](https://github.com/prasunroy/openpose-pytorch)  
+- [insightface](https://github.com/deepinsight/insightface)
+- [GFPGAN](https://github.com/TencentARC/GFPGAN)
+- [GFPGAN-onnxruntime-demo](https://github.com/xuanandsix/GFPGAN-onnxruntime-demo)
+- [BSRGAN](https://github.com/cszn/BSRGAN)
+- [pose-transfer](https://github.com/prasunroy/pose-transfer)
+- [openpose-pytorch](https://github.com/prasunroy/openpose-pytorch)

@@ -23,7 +23,7 @@ Insightface based face swapping tool to replace faces in videos or images. Windo
 - 2023/9/14 update face enhance(GFPGAN) and image super resolution(BSRGAN)
 
 # Tutorial
-- [dofaker tutorial in youtube：face swap so easy](https://www.youtube.com/watch?v=qd1-JSpiZao)  
+- [dofaker tutorial in youtube：face swap so easy](https://www.youtube.com/watch?v=qd1-JSpiZao)
 - [colab online](https://colab.research.google.com/drive/1i1hO-_yS6kZdrLden8Mo_hfeHFD-cBt0?usp=sharing)
 
 
@@ -129,9 +129,9 @@ Do not apply this software to scenarios that violate morality, law, or infringem
 [Thank you for support](https://www.paypal.com/paypalme/justldu)
 
 # Thanks
-- [insightface](https://github.com/deepinsight/insightface)  
-- [GFPGAN](https://github.com/TencentARC/GFPGAN)  
-- [GFPGAN-onnxruntime-demo](https://github.com/xuanandsix/GFPGAN-onnxruntime-demo)  
-- [BSRGAN](https://github.com/cszn/BSRGAN)  
-- [pose-transfer](https://github.com/prasunroy/pose-transfer)  
-- [openpose-pytorch](https://github.com/prasunroy/openpose-pytorch)  
+- [insightface](https://github.com/deepinsight/insightface)
+- [GFPGAN](https://github.com/TencentARC/GFPGAN)
+- [GFPGAN-onnxruntime-demo](https://github.com/xuanandsix/GFPGAN-onnxruntime-demo)
+- [BSRGAN](https://github.com/cszn/BSRGAN)
+- [pose-transfer](https://github.com/prasunroy/pose-transfer)
+- [openpose-pytorch](https://github.com/prasunroy/openpose-pytorch)
